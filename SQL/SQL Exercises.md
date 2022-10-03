@@ -1,5 +1,4 @@
 # SQL Exercises
----
 - SQL Excercises
   - 595. Big Countries
   - 627. Swap Salary
