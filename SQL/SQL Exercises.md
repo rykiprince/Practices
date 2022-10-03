@@ -6,7 +6,8 @@
 
 ## 595. Big Countries
 https://leetcode.com/problems/big-countries/description/
-**Table**
+
+### Table
 
 | name            | continent  | area       | population   | gdp           |
 |-----------------|------------|------------|--------------|---------------|
@@ -17,7 +18,7 @@ https://leetcode.com/problems/big-countries/description/
 | Angola          | Africa     | 1246700    | 20609294     | 100990000     |
 
 Big countries define as:
-  - it has an area of at least three million (i.e., `3000000 km^2`), or
+  - it has an area of at least three million (i.e., `3000000 $km^2$`), or
   - it has a population of at least twenty-five million (i.e., `25000000`).
 
 Write an SQL query to report the name, population, and area of the **big countries**.
