@@ -1,7 +1,7 @@
 # SQL Exercises
 - SQL Excercises
   - [595. Big Countries](https://github.com/rykiprince/Practices/blob/main/SQL/SQL%20Exercises.md#595-big-countries)
-  - 627. Swap Salary
+  - [627. Swap Salary](https://github.com/rykiprince/Practices/tree/main/SQL/627.%20Swap%20Salary)
   - [1873. Calculate Special Bonus](https://github.com/rykiprince/Practices/tree/main/SQL/1873.%20Calculate%20Special%20Bonus)
 
 ## 595. Big Countries
